@@ -50,3 +50,6 @@ fabric.properties
 /.idea/
 /.idea/*
 /.idea/**/*
+
+################ .iml
+*.iml
