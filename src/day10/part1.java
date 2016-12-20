@@ -3,9 +3,9 @@ package day10;
 /**
  * Created by Sneeuwpopsneeuw on 08-Dec-16.
  */
-public class part1 {
+public class Part1 {
 
-    public static void main(String[] args) { new part1().start("1113122113", 40); }
+    public static void main(String[] args) { new Part1().start("1113122113", 40); }
     public void start(String str, int length) {
         for (int i=1; i <= length; i++) {
             str = run(str);
